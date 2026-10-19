@@ -36,7 +36,7 @@ The core engine and its components are built and compiled using the following en
     ├── xml/
     │   └── method.xml    # Input method subtype definitions
     └── drawable/
-        └── icon.xml      # Keyboard status/launcher icon
+        └── icon.png      # Keyboard status/launcher icon
 
 
 ### Getting Started
