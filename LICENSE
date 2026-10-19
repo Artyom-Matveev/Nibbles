@@ -1,33 +1,21 @@
-THE FREE USE LICENSE (FUL)
-Version 1.0
-Published: xx xxxx xxxx
+MIT License
 
-Copyright © 2026 Artyom Matveev
+Copyright (c) 2026 Artyom-Matveev
 
-1. GRANT. The Author, Artyom Matveev, grants any person a perpetual, worldwide, royalty-free, irrevocable right to use, copy, modify, distribute, sublicense and sell the Software absolutely free of charge, for any purpose, including but not limited to:
-(a) open-source projects;
-(b) closed-source projects, whether distributed free of charge or commercially/proprietarily;
-without any obligation to credit the Author.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. RESERVED RIGHTS. This is a license, not an assignment. The Software remains the intellectual property of the Author. The Author reserves all moral, ethical and legal rights of authorship; no use of the Software transfers or alienates authorship.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-3. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-4. ACCEPTANCE. Any use of the Software constitutes acceptance of this License.
-
-5. GOVERNING LAW. This License shall be governed by and construed in accordance with the laws of the Russian Federation.
-
-6. LICENSE TEXT REUSE. The text of this License itself may be freely copied, reproduced, distributed and used by any person for any purpose, including as the license for other software, without any obligation to credit the Author, provided that any modified version of this text is not presented or represented as the official version of THE FREE USE LICENSE (FUL). Only the canonical text published at the link below constitutes the official version.
-
-Author: Artyom Matveev, 2026
-
-The canonical text of this License is available at:
-https://github.com/Artyom-Matveev/Nibbles/blob/main/LICENSE
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
